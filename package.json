@@ -5,14 +5,14 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "devrun" :"nodemon server.js",
-    "start":"node server.js"
+    "devrun": "nodemon server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "github.com/deep5050/jobful-api.git",
-    "homepage":"https://github.com/deep5050/jobful-api"
-},
+    "homepage": "https://github.com/deep5050/jobful-api"
+  },
   "keywords": [
     "REST",
     "api",

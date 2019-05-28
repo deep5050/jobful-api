@@ -1,5 +1,7 @@
 GET http://localhost:3000/freejobalert/
-###
+
+
+### error
 GET http://localhost:3000/freejobalert/ss
 
 ###
@@ -18,4 +20,11 @@ GET http://localhost:3000/freejobalert/railway-jobs
 
 ###
 GET http://localhost:3000/freejobalert/defence-jobs
+###
+GET http://localhost:3000/freejobalert/gov/state/AP
+### error
+GET http://localhost:3000/freejobalert/gov/state/AP89
+
+###
+GET http://localhost:3000/freejobalert/gov/state/wb
 

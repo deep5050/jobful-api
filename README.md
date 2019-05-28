@@ -80,7 +80,7 @@ npm run devrun
   }
 ```
 
-## State Map For Query :india:
+## State Codes For Query :india:
 
 <!-- <table>
 <tbody>
@@ -235,11 +235,14 @@ npm run devrun
 
 
 
-
+<!-- 
 
 <!DOCTYPE html>
 <html>
-
+	<head>
+		<meta charset='UTF-8'>
+			<title></title>
+		</head>
 		<body>
 			<table >
 				<thead>
@@ -438,10 +441,206 @@ npm run devrun
 				</tbody>
 			</table>
 		</body>
-	</html>
+	</html> -->
+<html>
+	<table>
+    <tr>
+        <td>code</td>
+        <td>name</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>AN</td>
+        <td>Andaman and Nicobar Islands</td>
+        <td>http://www.freejobalert.com/an-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>AP</td>
+        <td>Andhra Pradesh</td>
+        <td>http://www.freejobalert.com/ap-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>AR</td>
+        <td>Arunachal Pradesh</td>
+        <td>http://www.freejobalert.com/arunachal-pradesh-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>AS</td>
+        <td>Assam</td>
+        <td>http://www.freejobalert.com/assam-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>BR</td>
+        <td>Bihar</td>
+        <td>http://www.freejobalert.com/bihar-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>CG</td>
+        <td>Chandigarh</td>
+        <td>http://www.freejobalert.com/chandigarh-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>CH</td>
+        <td>Chhattisgarh</td>
+        <td>http://www.freejobalert.com/chhattisgarh-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>DH</td>
+        <td>Dadra and Nagar Haveli</td>
+        <td>http://www.freejobalert.com/dadra-nagar-haveli-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>DD</td>
+        <td>Daman and Diu</td>
+        <td>http://www.freejobalert.com/daman-diu-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>DL</td>
+        <td>Delhi</td>
+        <td>http://www.freejobalert.com/delhi-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>GA</td>
+        <td>Goa</td>
+        <td>http://www.freejobalert.com/goa-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>GJ</td>
+        <td>Gujarat</td>
+        <td>http://www.freejobalert.com/gujarat-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>HR</td>
+        <td>Haryana</td>
+        <td>http://www.freejobalert.com/haryana-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>HP</td>
+        <td>Himachal Pradesh</td>
+        <td>http://www.freejobalert.com/hp-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>JK</td>
+        <td>Jammu and Kashmir</td>
+        <td>http://www.freejobalert.com/jk-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>JH</td>
+        <td>Jharkhand</td>
+        <td>http://www.freejobalert.com/jharkhand-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>KA</td>
+        <td>Karnataka</td>
+        <td>http://www.freejobalert.com/karnataka-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>KL</td>
+        <td>Kerala</td>
+        <td>http://www.freejobalert.com/kerala-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>LD</td>
+        <td>Lakshadweep</td>
+        <td>http://www.freejobalert.com/lakshadweep-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>MP</td>
+        <td>Madhya Pradesh</td>
+        <td>http://www.freejobalert.com/mp-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>MH</td>
+        <td>Maharashtra</td>
+        <td>http://www.freejobalert.com/maharashtra-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>MN</td>
+        <td>Manipur</td>
+        <td>http://www.freejobalert.com/manipur-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>ML</td>
+        <td>Meghalaya</td>
+        <td>http://www.freejobalert.com/meghalaya-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>MZ</td>
+        <td>Mizoram</td>
+        <td>http://www.freejobalert.com/mizoram-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>NL</td>
+        <td>Nagaland</td>
+        <td>http://www.freejobalert.com/nagaland-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>OR</td>
+        <td>Odisha</td>
+        <td>http://www.freejobalert.com/odisha-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>PY</td>
+        <td>Puducherry</td>
+        <td>http://www.freejobalert.com/puduchhery-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>PB</td>
+        <td>Punjab</td>
+        <td>http://www.freejobalert.com/punjab-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>RJ</td>
+        <td>Rajasthan</td>
+        <td>http://www.freejobalert.com/rajasthan-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>SK</td>
+        <td>Sikkim</td>
+        <td>http://www.freejobalert.com/sikkim-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>TN</td>
+        <td>Tamil Nadu</td>
+        <td>http://www.freejobalert.com/tn-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>TS</td>
+        <td>Telangana</td>
+        <td>http://www.freejobalert.com/telangana-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>TR</td>
+        <td>Tripura</td>
+        <td>http://www.freejobalert.com/tripura-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>UK</td>
+        <td>Uttarakhand</td>
+        <td>http://www.freejobalert.com/uttarakhand-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>UP</td>
+        <td>Uttar Pradesh</td>
+        <td>http://www.freejobalert.com/up-government-jobs/</td>
+    </tr>
+    <tr>
+        <td>WB</td>
+        <td>West Bengal</td>
+        <td>http://www.freejobalert.com/wb-government-jobs/</td>
+    </tr>
+</table>
+<html>
 
+### How To Use State Codes In HTTP Request?
 
-
+```http
+GET http://localhost:3000/freejobalert/gov/state/ap
+```
+OR
+```http
+GET http://localhost:3000/freejobalert/gov/state/WB
+```
 
 
 
@@ -453,7 +652,20 @@ npm run devrun
 
 ### Developer Hacks
 1. install vsCode and install <a href="https://github.com/Huachao/vscode-restclient/"> REST Client Extension </a>
-2. open the test.rest file and send request directly from vsCode :boom:
+
+![gnome-shell-screenshot-B7LZ1Z](https://user-images.githubusercontent.com/27947066/58490169-471c0780-818a-11e9-8a4c-408e80e0eb7d.png)
+
+2. open the ```test.rest``` file and send request directly from vsCode :boom:
+
+![Screenshot from 2019-05-28 20-39-59](https://user-images.githubusercontent.com/27947066/58489592-33bc6c80-8189-11e9-98e0-1ff3474f2b04.png)
+
+
+## Thankful To
+- Visual Studio Code
+- REST Client extension
+- https://tableconvert.com/ for json to table conersion :smile:
+- [Indian States and Union Territories in JSON format](https://gist.github.com/shubhamjain/35ed77154f577295707a)
+- 
 
 ## License
 MIT License
@@ -478,4 +690,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## DONATE
+If this project helps you in any way making your life easier, you can buy me a :coffee: .
+<p align="center">  
+  <a href="https://www.paypal.me/deep5050" alt="Paypal"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /></a>
+</p>
   
