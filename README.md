@@ -239,10 +239,7 @@ npm run devrun
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset='UTF-8'>
-			<title>JSON To HTML using codebeautify.org</title>
-		</head>
+
 		<body>
 			<table >
 				<thead>
