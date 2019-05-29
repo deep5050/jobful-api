@@ -1,0 +1,21 @@
+language: node_js
+node_js:
+- 11.2.0
+cache: npm
+brfore_install:
+install:
+before_script:
+script:
+- npm test
+after_success:
+after_failure:
+after_script:
+before_deploy:
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
+after_deploy:
