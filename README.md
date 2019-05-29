@@ -663,7 +663,7 @@ GET http://localhost:3000/freejobalert/gov/state/WB
 ## Thankful To
 - Visual Studio Code
 - REST Client extension
-- https://tableconvert.com/ for json to table conersion :smile:
+- https://tableconvert.com/ for json to table conversion :smile:
 - [Indian States and Union Territories in JSON format](https://gist.github.com/shubhamjain/35ed77154f577295707a)
 - 
 
