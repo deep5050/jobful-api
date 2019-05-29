@@ -9,7 +9,9 @@ dotenv.config();
 var log = signale.scope("server:global");
 app.use(express.json());
 
-
+app.get('/',(req,res)=>{
+    res.status(200).json({mssg:"In Root"})
+});
 
 
 app.use('/freejobalert', freejobalert);
@@ -34,3 +36,5 @@ app.all('*', (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
     log.watch("listening to port: " + process.env.PORT || 3000);
 })
+
+module.exports = app;

@@ -2,7 +2,7 @@ GET http://localhost:3000/freejobalert/
 
 
 ### error
-GET http://localhost:3000/freejobalert/ss
+GET http://localhost:3000/freejobalert/xyz
 
 ###
 GET http://localhost:3000/freejobalert/gov/other-all-india-exam
