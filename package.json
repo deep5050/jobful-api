@@ -33,7 +33,7 @@
     "signale": "^1.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1",
+    "nodemon": "^2.0.3",
     "supertest": "^4.0.2"
   }
 }
