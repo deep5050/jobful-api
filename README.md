@@ -4,6 +4,8 @@
 
 #### Fetches various job and exam notifications from popular websites and sereve them as json
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc498784e1fb440ca4e290f80d4ee208)](https://app.codacy.com/manual/dipankarpal5050/jobful-api?utm_source=github.com&utm_medium=referral&utm_content=deep5050/jobful-api&utm_campaign=Badge_Grade_Settings)
+
 ### Examples:
 1. <h4 style="color:tomato;">freejobalerts.com Latest Notifications</h4>
 ```http
