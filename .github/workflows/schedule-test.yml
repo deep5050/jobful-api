@@ -1,7 +1,7 @@
 name: CRON test
 on:
-  schedule:
-    -cron: '0 0 12 ? * SUN *'
+  schedule: [cron: '0 12 * * SUN']
+
 jobs:
   build:
     runs-on: ubuntu-latest
