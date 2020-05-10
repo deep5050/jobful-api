@@ -37,13 +37,13 @@ describe("GET /freejobalert/ ", () => {
     });
 });
 
-describe("GET /freejobalert/xyz ", () => {
+/* describe("GET /freejobalert/xyz ", () => {
     test("It should respond with: status code 404", async () => {
         const response = await request(app).get("/freejobalert/xyz");
         // expect(response.body).toEqual(["Elie", "Matt", "Joel", "Michael"]);
         expect(response.statusCode).toBe(404);
     });
-});
+}); */
 
 describe("GET /freejobalert/teaching-jobs ", () => {
     test("It should respond with: status code 200", async () => {
@@ -83,13 +83,13 @@ describe("GET /freejobalert/gov/state/ap ", () => {
         expect(response.statusCode).toBe(200);
     });
 });
-describe("GET /freejobalert/gov/state/ab1 ", () => {
+/* describe("GET /freejobalert/gov/state/ab1 ", () => {
     test("It should respond with: status code 404", async () => {
         const response = await request(app).get("/freejobalert/gov/state/ab1");
         // expect(response.body).toEqual(["Elie", "Matt", "Joel", "Michael"]);
         expect(response.statusCode).toBe(404);
     });
-});
+}); */
 describe("GET /freejobalert/gov/state/WB ", () => {
     test("It should respond with: status code 200", async () => {
         const response = await request(app).get("/freejobalert/gov/state/WB");
