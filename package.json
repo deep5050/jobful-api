@@ -1,0 +1,39 @@
+{
+  "name": "jobful-api",
+  "version": "1.1.0",
+  "description": "A RESTful API to fetch latest job notifications (INDIA only) from various sources.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest  --forceExit",
+    "devrun": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/deep5050/jobful-api.git",
+    "homepage": "https://github.com/deep5050/jobful-api"
+  },
+  "keywords": [
+    "REST",
+    "api",
+    "RESTful-api",
+    "job",
+    "job-notification",
+    "nodeJs",
+    "expressJS"
+  ],
+  "author": "dipankar pal",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^25.3.0",
+    "request": "^2.88.2",
+    "signale": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "supertest": "^4.0.2"
+  }
+}
