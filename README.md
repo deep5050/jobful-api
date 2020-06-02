@@ -1,8 +1,11 @@
+<p align="center">
+<a href="https://github.com/deep5050/jobful-api"><img src="https://i.imgur.com/JNVNAPu.png" title="jobfulAPI" /></a>
+</p>
 
-<h1 align="center">JOBful-API</h1>
-<h4 align="center">A RESTful API to fetch latest job notifications(INDIA only) from various sources.</h4>
+<p align="center"><b>JOBful-API</b></p>
+<p align="center">A RESTful API to fetch latest job notifications(INDIA only) from various sources.</p>
 
-#### Fetches various job and exam notifications from popular websites and sereve them as json
+<p align="center">Fetches various job and exam notifications from popular websites and sereves them as json</p>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc498784e1fb440ca4e290f80d4ee208)](https://app.codacy.com/manual/dipankarpal5050/jobful-api?utm_source=github.com&utm_medium=referral&utm_content=deep5050/jobful-api&utm_campaign=Badge_Grade_Settings)![Tests](https://github.com/deep5050/jobful-api/workflows/my%20tests/badge.svg)
 
