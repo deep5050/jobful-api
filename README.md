@@ -6,8 +6,12 @@
 <p align="center">A RESTful API to fetch latest job notifications(INDIA only) from various sources.</p>
 
 <p align="center">Fetches various job and exam notifications from popular websites and sereves them as json</p>
+<div align="center">
+<!-- <p align="center"><img src="https://app.codacy.com/manual/dipankarpal5050/jobful-api?utm_source=github.com&utm_medium=referral&utm_content=deep5050/jobful-api&utm_campaign=Badge_Grade_Settings.svg" /></p> -->
+	
+<p align="center" ><img src="https://github.com/deep5050/jobful-api/workflows/my%20tests/badge.svg" /></p>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc498784e1fb440ca4e290f80d4ee208)](https://app.codacy.com/manual/dipankarpal5050/jobful-api?utm_source=github.com&utm_medium=referral&utm_content=deep5050/jobful-api&utm_campaign=Badge_Grade_Settings)![Tests](https://github.com/deep5050/jobful-api/workflows/my%20tests/badge.svg)
+</div>
 
 ### Examples:
 1. <h4 style="color:tomato;">freejobalerts.com Latest Notifications</h4>
