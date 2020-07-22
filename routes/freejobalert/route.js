@@ -211,7 +211,7 @@ async function otherAllIndiaExam(req, res, next) {
         })
         .then((data) => {
             res.status(200);
-            log.scuuess(data);
+            log.success(data);
             return res.results = data;
         })
     next();
