@@ -2,11 +2,11 @@
   "name": "jobful-api",
   "version": "1.1.0",
   "description": "A RESTful API to fetch latest job notifications (INDIA only) from various sources.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest  --forceExit",
-    "devrun": "nodemon server.js",
-    "start": "node server.js"
+    "devrun": "nodemon index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
